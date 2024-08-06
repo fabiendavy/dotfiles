@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = davyfabien@gmail.com
-	name = Fabien Davy
+	email = davyfabien@gmail.co
+	name = fabiendavy
